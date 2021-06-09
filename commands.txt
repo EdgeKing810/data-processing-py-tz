@@ -1,0 +1,6 @@
+pip3 install xlsxwriter
+
+python3 reader.py os.csv uptime.csv
+
+python3 analyze_os.py
+python3 analyze_uptime.py
